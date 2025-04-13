@@ -1,4 +1,4 @@
-Output for Every Algorithm such as Atbash, Caesar, Affine is here
+Output for Every Algorithm such as Atbash, Caesar, Affine, August is here
 
 1.Atbash Cipher
 
@@ -22,3 +22,10 @@ Enter key 'b': 4
 
 Encrypted Text: Xattq Iqntb
 Decrypted Text: Hello World
+
+4.August Cipher
+
+Enter plaintext: Hello World
+
+Encrypted Text: ITSSG VGKSR
+Decrypted Text: HELLO WORLD
