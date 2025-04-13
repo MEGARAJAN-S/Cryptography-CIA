@@ -67,10 +67,3 @@ Each algorithm is implemented in a separate Java file with:
    cd cryptography-algorithms
 
 ---
-## Details
-
-MEGARAJAN S
-
-IOT A
-
-22011102054
