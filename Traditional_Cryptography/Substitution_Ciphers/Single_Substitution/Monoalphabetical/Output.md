@@ -14,4 +14,11 @@ Enter the shift key: 2
 Encrypted Text: Jgnnq Yqtnf
 Decrypted Text: Hello World
 
-3.
+3. Affine Cipher
+
+Enter the text: Hello World
+Enter key 'a' (must be coprime with 26): 25
+Enter key 'b': 4
+
+Encrypted Text: Xattq Iqntb
+Decrypted Text: Hello World
