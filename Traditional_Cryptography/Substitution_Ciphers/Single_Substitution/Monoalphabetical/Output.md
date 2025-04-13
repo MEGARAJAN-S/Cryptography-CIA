@@ -1,4 +1,4 @@
-Output for Every Algorithm is here
+Output for Every Algorithm such as Atbash, Caesar, Affine is here
 
 1.Atbash Cipher
 
