@@ -1,4 +1,4 @@
-Output for Every Algorithm such as Vigenere,Gronsfeld,Beaufort,Autokey  is here
+Output for Every Algorithm such as Vigenere,Gronsfeld,Beaufort,Autokey,Runningkey  is here
 
 1.Vigenere Cipher
 
@@ -30,4 +30,12 @@ Enter the plaintext: Hello World
 Enter the key (single word): key
 
 Encrypted Text: Rijss Hzfhr
+Decrypted Text: Hello World
+
+5.RunningKey Cipher
+
+Enter the plaintext: Hello World
+Enter the running key (must be at least as long as plaintext letters): Hello World
+
+Encrypted Text: Oiwwc Sciwg
 Decrypted Text: Hello World
