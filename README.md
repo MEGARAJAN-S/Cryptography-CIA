@@ -66,9 +66,11 @@ Each algorithm is implemented in a separate Java file with:
    git clone https://github.com/MEGARAJAN-S/Cryptography-CIA.git
    cd cryptography-algorithms
 
-
+---
 ## Details
 
 MEGARAJAN S
+
 IOT A
+
 22011102054
