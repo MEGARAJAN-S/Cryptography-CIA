@@ -1,4 +1,4 @@
-Output for Every Algorithm such as Vigenere,Gronsfeld,Beaufort is here
+Output for Every Algorithm such as Vigenere,Gronsfeld,Beaufort,Autokey  is here
 
 1.Vigenere Cipher
 
@@ -22,4 +22,12 @@ Enter the text: Hello World
 Enter the key: KEY
 
 Encrypted Text: Danzq Cwnnh
+Decrypted Text: Hello World
+
+4.Autokey Cipher
+
+Enter the plaintext: Hello World
+Enter the key (single word): key
+
+Encrypted Text: Rijss Hzfhr
 Decrypted Text: Hello World
